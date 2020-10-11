@@ -1,2 +1,2 @@
-# taql
+# TAQL
 Text Analytics Query Language
